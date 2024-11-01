@@ -1,4 +1,4 @@
-# PROJECT LATIAN 1 DAN 2 Oleh Vallencyandela
+# PROJECT 1 & 2 Oleh Vallencyandela
 ## project 1
 berikut penggunaan loop bertingkat untuk mencetak hasil penambahan angka dari 0 hingga 10: 
 
@@ -15,7 +15,7 @@ lalu di press F5 (run) :
 
 ![hasil loop bertingkat](https://github.com/user-attachments/assets/133fabee-284d-4ef3-84ae-62cc28713924)
 
-## LATIHAN 2
+## project 2
 
 Pembuatan program nilai input, while , dan loop dari nilai acak kurang dari 0,5 adalah sebagai berikut : 
 
