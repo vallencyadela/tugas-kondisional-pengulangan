@@ -1,6 +1,7 @@
 # PROJECT LATIAN 1 DAN 2 Oleh Vallencyandela
 ## project 1
-Jika ingin menggunakan loop bertingkat untuk mencetak hasil penambahan angka dari 0 hingga 10, berikut adalah langkah - langkahnya :
+berikut penggunaan loop bertingkat untuk mencetak hasil penambahan angka dari 0 hingga 10: 
+
 - langkah pertama Loop untuk membuat angka 0 hingga 10 : *for i in range(10):* 
 - langkah kedua Loop untuk membuat penambahan : *for j in range(10):* 
 - langkah ketiga Cetak hasil penambahan dengan tab sebagai pemisah : *print(i + j, end='\t')* 
@@ -25,11 +26,11 @@ Pembuatan program nilai input, while , dan loop dari nilai acak kurang dari 0,5 
 2. membuat program Penghitung dan List: melacak serta menyimpan angka sesuai angka yang akan dihasilkan nanti
 ![inisialisasi penghitung   list data](https://github.com/user-attachments/assets/df8382fc-5756-4d6f-92aa-a5528500f09d)
    
-3. While Loop: Loop acak ini ini akan terus berjalan hingga count mencapai n. berikut SC nya :
+3. Merancang program While Loop: Loop acak ini ini akan terus berjalan hingga count mencapai n. berikut SC nya :
 
 ![while and loop](https://github.com/user-attachments/assets/40cdd27c-1a80-4e55-a6e7-acf02f6fe3e6)
    
-4. For Loop: Menghasilkan angka acak dan memeriksa apakah angka tersebut kurang dari 0.5. Jika ya, angka tersebut disimpan dalam list dan dicetak. Loop for akan berhenti jika jumlah angka yang diinginkan sudah tercapai. Berikut gambarnya :
+4. membuat program For Loop: Menghasilkan angka acak dan memeriksa apakah angka tersebut kurang dari 0.5. Jika ya, angka segera masuk list dan dicetak. Berikut gambarnya :
 ![for loop](https://github.com/user-attachments/assets/2f260946-3346-4b6d-8fc8-119e773f19e1)
    
 5. Pada saat run time (press F5), tampilan seperti dibawah ini
@@ -37,8 +38,8 @@ Pembuatan program nilai input, while , dan loop dari nilai acak kurang dari 0,5 
 ![tampilan sebelum run time](https://github.com/user-attachments/assets/e7d7bf23-58e6-4ff0-9038-726e6de21dbb)
 
 
-6.	Hasil yang akan terjadi setelah nilai n diisi angka 5 adalah sebagai berikut :
+6.	Hasil bisa di isi angka apapun, sebagai contoh jika kita isi 5 adalah sebagai berikut :
 
 ![setelah run time](https://github.com/user-attachments/assets/9d588009-d0fb-438e-9219-4d498da563ae)
 
-*KESIMPULAN*:  Angka berderet dalam 5 baris, nilai perbaris  kurang dari 0,5 dan tiap baris merupakan angka acak. Sehingga total semua  nilai tersebut  adalah 5.
+selesai
