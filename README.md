@@ -1,4 +1,4 @@
-# PROJECT 1 & 2 Oleh Vallencyandela
+# PROJECT 1 & 2 Oleh Vallencya Della
 ## project 1
 berikut penggunaan loop bertingkat untuk mencetak hasil penambahan angka dari 0 hingga 10: 
 
